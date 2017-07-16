@@ -9,7 +9,7 @@ deputy:
 - Josef Janů
 - Barbora Hradečná
 contact:
-- Daniela Bílá
+- Michaela Kleslová
 region: Karlovarský kraj
 url: http://kvk.pirati.cz/
 categories:
