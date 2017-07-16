@@ -9,7 +9,7 @@ deputy:
 - Josef Janů
 - Barbora Hradečná
 contact:
-- Daniela Bílá
+- Michaela Kleslová
 region: Karlovarský kraj
 url: http://kvk.pirati.cz/
 categories:
@@ -27,7 +27,9 @@ Hájí nás tři stateční zastupitelé na úrovni celého kraje. V Mariánský
 
 Možnosti zapojení:
 
-* Přijďte na naše pirátská setkání! Konají se nepravidelně. Pro více informací sledujte náš [Facebook](https://www.facebook.com/pg/pirati.karlovarsko/events/), nebo kontaktujte koordinátorku krajské organizace pro Karlovarský kraj, Danielu Bílou (daniela.bila(аt)pirati.cz).
+* Přijďte na naše pirátská setkání! Konají se nepravidelně. Pro více informací sledujte náš [Facebook](https://www.facebook.com/pg/pirati.karlovarsko/events/), nebo kontaktujte koordinátorku krajské organizace pro Karlovarský kraj, Michaelu Kleslovou (michaela.kleslova@pirati.cz)
+
+Staňte se pirátským dobrovolníkem, vyplňte náš Pirotazník (https://docs.google.com/forms/d/e/1FAIpQLSfqC4TFPdUlyh3o6rKABIwk2Jt4rp48FWvHIB7WeLkswNnfQg/viewform?c=0&w=1&includes_info_params=true) a odešlete na již výše zmíněný email naší koordinátorky.
 
 Podívejte se na konkrétní termíny akcí v [kalendáři]({{ '/pripoj-se/kalendar/' | relative_url }}),
-abyste se ujistili, že akce bude.
+abyste se ujistili, že akce bude. 
