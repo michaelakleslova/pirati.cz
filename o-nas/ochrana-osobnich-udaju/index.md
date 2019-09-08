@@ -16,7 +16,7 @@ Ochraně soukromí a osobních údajů věnujeme velkou pozornost. Osobní údaj
 ## 2. Správce osobních údajů
 <table>
 <tr><td>Název:</td><td>Česká pirátská strana</td></tr>
-<tr><td>Sídlo:</td><td> Řehořova 943/19, 130 00 Praha 3, Česká republika</td></tr>
+<tr><td>Sídlo:</td><td>Na Moráni 360/3 128 00 Praha 2, Česká republika</td></tr>
 <tr><td>IČ:</td><td> 71339698 </td></tr>
 <tr><td></td><td>Zapsaný v Rejstříku politických stran a politických hnutí České republiky od 17. 6. 2009.</td></tr>
 <tr><td>E-mail:</td><td> info@pirati.cz</td></tr>
@@ -156,7 +156,7 @@ Pokud je zpracování osobních údajů založeno na udělení souhlasu subjektu
 Subjekt údajů je oprávněn podat stížnost na dozorový úřad, kterým je Úřad pro ochranu osobních údajů v Praze.
 
 ## 17. Uplatnění práv subjektu údajů
-Subjekt údajů může uplatnit svoje práva u správce nejlépe v písemné formě na kontaktní adrese Česká pirátská strana, Řehořova 943/19, 130 00 Praha 3, Česká republika nebo v elektronické formě e-mailem na adrese gdpr@pirati.cz případně datovou zprávou do datové schránky správce b2i4r6j.
+Subjekt údajů může uplatnit svoje práva u správce nejlépe v písemné formě na kontaktní adrese Česká pirátská strana, Na Moráni 360/3 128 00 Praha 2, Česká republika nebo v elektronické formě e-mailem na adrese gdpr@pirati.cz případně datovou zprávou do datové schránky správce b2i4r6j.
 
 Z důvodu zamezení případných pochybností o totožnosti žadatele správce doporučuje, aby uplatnění práva subjektu údajů v písemné formě bylo opatřeno úředně ověřeným popisem a v elektronické formě e-mailem elektronickým podpisem s kvalifikovaným certifikátem.
 
